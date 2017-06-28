@@ -1,0 +1,34 @@
+/* add your CSS here */
+
+body {
+  max-width: 300px;
+  box-shadow: 2px 5px 5px 2px #777777;
+}
+
+img {
+  width: 100%;
+}
+
+.border {
+  border: 1px solid #777777;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.interesting-fact {
+  font-style: italic;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+div {
+  padding: 1em;
+}
